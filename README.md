@@ -1,0 +1,1 @@
+# vidotto-config-server
